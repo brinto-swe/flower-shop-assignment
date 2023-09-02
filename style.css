@@ -11,18 +11,28 @@ body {
     align-items: center;
 }
 .header-info{
-    margin: 0px 97px 0px 270px;
+    margin: 0px 97px 0px 180px;
 }
 .header-headline {
     font-size: 75px;
+    margin-bottom: 30px;
 }
-
+.header-paragraph{
+    margin: 0px 60px 30px 0px;
+    color: #27272799;
+    font-size: 16px;
+}
 .button-style {
     color: white;
     background-color: #E55473;
     padding: 20px 43px;
     align-items: flex-start;
-    gap: 10px;
     border: none;
     border-radius: 8px;
+}
+.button-style{
+    font-size: 20px;
+}
+.header-banner{
+    margin-right: 110px;
 }
