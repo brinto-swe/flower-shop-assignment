@@ -6,6 +6,7 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+/* Header Section  */
 .header{
     display: flex;
     align-items: center;
@@ -35,4 +36,17 @@ body {
 }
 .header-banner{
     margin-right: 110px;
+}
+
+
+/* Third Section  */
+.third-section{
+    display: flex;
+    gap: 40px;
+    justify-content: space-evenly;
+    align-items: baseline;
+    margin: 120px;
+}
+.parent-flower{
+    text-align: center;
 }
