@@ -45,7 +45,7 @@ body {
     margin: 120px 600px 0px;
     text-align: center;
 }
-.second-section-heading{
+.section-heading{
     font-size: 35px;
     margin: 0px 0px;
 }
@@ -77,3 +77,15 @@ body {
     text-align: center;
 }
 
+
+/* Hot Deal Section */
+.hot-deal-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 50px 300px;
+    text-align: center;
+}
+.hot-section-info{
+    margin: 0px 170px;
+}
