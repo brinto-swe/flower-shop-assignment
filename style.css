@@ -6,6 +6,7 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+
 /* Header Section  */
 .header{
     display: flex;
@@ -36,6 +37,20 @@ body {
 }
 .header-banner{
     margin-right: 110px;
+}
+
+
+/* Second Section  */
+.second-section{
+    margin: 120px 600px 0px;
+    text-align: center;
+}
+.second-section-heading{
+    font-size: 35px;
+    margin: 0px 0px;
+}
+.second-section-paragraph{
+    font-size: 18px;
 }
 
 
