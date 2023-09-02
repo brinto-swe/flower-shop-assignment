@@ -1,0 +1,28 @@
+/* imported fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Work+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+.header-info{
+    margin: 0px 97px 0px 270px;
+}
+.header-headline {
+    font-size: 75px;
+}
+
+.button-style {
+    color: white;
+    background-color: #E55473;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    border-radius: 8px;
+}
