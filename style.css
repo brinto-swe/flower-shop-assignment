@@ -65,3 +65,15 @@ body {
 .parent-flower{
     text-align: center;
 }
+
+
+/* Help Section  */
+.help-section{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.parent-logo{
+    text-align: center;
+}
+
