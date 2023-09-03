@@ -31,8 +31,6 @@ body {
     align-items: flex-start;
     border: none;
     border-radius: 8px;
-}
-.button-style{
     font-size: 20px;
 }
 .header-banner{
@@ -51,6 +49,7 @@ body {
 }
 .section-paragraph{
     font-size: 18px;
+    color: #27272799;
 }
 
 
@@ -103,4 +102,38 @@ body {
     display: flex;
     gap: 30px;
     margin: 50px 200px;
+}
+
+
+
+.coupon-section{
+    background-image: url(./Flowers/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 120px 220px;
+    text-align: center;
+    padding: 150px 0px;
+}
+
+.subscribe-button{
+    height: 55px;
+    width: 140px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 22px;
+    padding: 15px 20px;
+}
+.banner-info{
+    margin-bottom: 50px;
+}
+#email-input{
+    height: 23px;
+    width: 700px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    padding: 15px 20px;
 }
