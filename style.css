@@ -49,7 +49,7 @@ body {
     font-size: 35px;
     margin: 0px 0px;
 }
-.second-section-paragraph{
+.section-paragraph{
     font-size: 18px;
 }
 
@@ -88,4 +88,11 @@ body {
 }
 .hot-section-info{
     margin: 0px 170px;
+}
+
+
+/* Instagram Section  */
+.instagram-section{
+    margin: 120px 600px 0px;
+    text-align: center;
 }
