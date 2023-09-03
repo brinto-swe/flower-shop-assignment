@@ -96,3 +96,11 @@ body {
     margin: 120px 600px 0px;
     text-align: center;
 }
+
+
+/* Flowers Section  */
+.flowers-section{
+    display: flex;
+    gap: 30px;
+    margin: 50px 200px;
+}
